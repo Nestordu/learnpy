@@ -1,2 +1,3 @@
 # learnpy
-learn to python
+learn to Python!
+
